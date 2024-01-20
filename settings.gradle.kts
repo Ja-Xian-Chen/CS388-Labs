@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "1"
+rootProject.name = "Prework"
 include(":app")
